@@ -2,7 +2,7 @@
 
 I push my Spoj problem solutions semi regularly here.
 
-##Some data
+## Some data
 
 My Profile: https://www.spoj.com/users/hatelefant12/ 
 Number of Solved Problems with challenges: 45
