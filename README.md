@@ -6,7 +6,7 @@ I push my Spoj problem solutions semi regularly here.
 
 My Profile: https://www.spoj.com/users/hatelefant12/ 
 
-Number of Solved Problems: 56+9 challange 
+Number of Solved Problems: 66+9 challange 
 
-Current Rank: 5211
+Current Rank: 4794
 
